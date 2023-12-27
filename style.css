@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    border-right: 1px solid rgba(28, 39, 28, 0.24);
+   
+}
+.button{
+    border: 1px ridge white;
+    border-radius: 10px;
+    height: 25px;
+    width: 70px;
+}
+.id{
+   font-size: small;  
+   font-weight: 100;
+}
